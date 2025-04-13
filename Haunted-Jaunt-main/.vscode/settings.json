@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "410-assignment2.sln"
+    "dotnet.defaultSolution": "Haunted-Jaunt-main.sln"
 }
